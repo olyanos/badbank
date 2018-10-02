@@ -1,0 +1,18 @@
+{
+  "accounts": [
+    {
+      "name": "",
+      "email": "",
+      "balance": "",
+      "password": "",
+      "transactions": ""
+    },
+    {
+      "name": "Omar",
+      "email": "Omar@mit.edu",
+      "password": "pass",
+      "balance": 27851,
+      "transactions": "Account Created,  withdraw = 981,  deposite = 28832, "
+    }
+  ]
+}
