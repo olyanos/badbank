@@ -9,7 +9,7 @@ function create() {
     password: document.getElementById("exampleInputPassword1").value
     ,transaction:"create"};
     alert('Hello '+obj.name+', your account has been created');
-    console.log('debug that');
+    console.log('Hello '+obj.name+', your account has been created');
     // -------------------------------------  
     var temp1 = String(obj.name);
     var temp2 = String(obj.email);
